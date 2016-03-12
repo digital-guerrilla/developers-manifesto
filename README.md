@@ -6,7 +6,7 @@ What we stand for
  2. Development is an art, so be beautiful
  3. Never stop learning
  4. Never stop teaching
- 5. Question if you are using the right tool for the job
+ 5. Question if we are using the right tool for the job
  6. Have fun
  
 # 1. Development is a science, so be scientific
@@ -76,7 +76,7 @@ the mentor to a future development giant. But it is within all of our
 power to inspire, mentor and teach non-developers about the power of
 logical, analytical problem solving.
 
-# 5. Question if you are using the right tool for the job
+# 5. Question if we are using the right tool for the job
 
 The hammer is a brilliant tool and has served humanity for well over
 two million years. It's reliable, effective and one of the most perfect 
