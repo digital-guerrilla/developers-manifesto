@@ -1,6 +1,6 @@
 # The Developer's Manifesto
 
-What we stand for
+[![Creative Commons Attribution-ShareAlive 4.0 International][license_img]](license_url)
 
  1. Development is a science, so be scientific
  2. Development is an art, so be beautiful
@@ -129,3 +129,7 @@ How can we inspire others if we cannot even inspire ourselves?
 We do something amazing.
 
 ---
+
+[license_img]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+
+[license_url]: http://creativecommons.org/licenses/by-sa/4.0
