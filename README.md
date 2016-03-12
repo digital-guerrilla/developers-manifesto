@@ -6,7 +6,7 @@ What we stand for
  2. Development is an art, so be beautiful
  3. Never stop learning
  4. Never stop teaching
- 5. Always use the right tool for the job
+ 5. Question if you are using the right tool for the job
  6. Have fun
  
 # 1. Development is a science, so be scientific
@@ -76,7 +76,7 @@ the mentor to a future development giant. But it is within all of our
 power to inspire, mentor and teach non-developers about the power of
 logical, analytical problem solving.
 
-# 5. Always use the right tool for the job
+# 5. Question if you are using the right tool for the job
 
 The hammer is a brilliant tool and has served humanity for well over
 two million years. It's reliable, effective and one of the most perfect 
@@ -88,6 +88,11 @@ As developers, we have a whole range of tools in our arsenal. There is
 nothing more frustrating that having to hammer in a screw. We may have
 preferences and biases as to which tool we use, but trying to hammer in
 a screw is both wasted effort and inelegant.
+
+The right tool for the job will change over time. What may be considered
+the best tool today may be considered a poor choice tomorrow. As a
+developer, it is our responsibility to question our choices and ensure
+we have enough knowledge to pose the best questions. 
 
 # 6. Have fun
 
