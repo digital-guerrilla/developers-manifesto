@@ -1,6 +1,6 @@
 # The Developer's Manifesto
 
-[![Creative Commons Attribution-ShareAlive 4.0 International][license_img]](license_url)
+[![Creative Commons Attribution-ShareAlive 4.0 International][license_img]][license_url]
 
  1. Development is a science, so be scientific
  2. Development is an art, so be beautiful
@@ -132,4 +132,4 @@ We do something amazing.
 
 [license_img]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 
-[license_url]: http://creativecommons.org/licenses/by-sa/4.0
+[license_url]: https://creativecommons.org/licenses/by-sa/4.0
