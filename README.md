@@ -44,7 +44,7 @@ room is to be in, the more pleasure we have being in it. The same is
 true of our software.
 
 As developers, we inhabit our software. Unlike everyone else, we walk
-through it's corridors, live in the walls and can admire its'
+through its corridors, live in the walls and can admire its
 construction. No one should be forced to live in a house that is
 unpleasant and we should not force other developers to live in software
 that is ugly.
