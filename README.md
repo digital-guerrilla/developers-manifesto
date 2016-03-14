@@ -1,4 +1,4 @@
-# The Developer's Manifesto
+# The Developers' Manifesto
 
 [![Creative Commons Attribution-ShareAlive 4.0 International][license_img]][license_url]
 
