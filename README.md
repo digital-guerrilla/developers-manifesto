@@ -102,7 +102,7 @@ tools we have.
 Unless you have a screw. Then it's useless.
 
 As developers, we have a whole range of tools in our arsenal. There is
-nothing more frustrating that having to hammer in a screw. We may have
+nothing more frustrating than having to hammer in a screw. We may have
 preferences and biases as to which tool we use, but trying to hammer in
 a screw is both wasted effort and inelegant.
 
