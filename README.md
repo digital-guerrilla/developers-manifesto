@@ -115,9 +115,9 @@ we have enough knowledge to pose the best questions.
 
 # 6. Have fun
 
-Every developer first started developing as a hobby because simply
-because it was interesting. The moment we stop the child-like wonder at
-how amazing it is to develop is the moment we cease to be a developer.
+Every developer first started developing as a hobby simply because it was
+interesting. The moment we stop the child-like wonder at how amazing it
+is to develop is the moment we cease to be a developer.
 
 Remember the excitement we had when we first made a computer do
 something. Those tasks are what we make computers do every single day of
