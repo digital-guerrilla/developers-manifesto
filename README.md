@@ -7,7 +7,8 @@
  3. Never stop learning
  4. Never stop teaching
  5. Question if we are using the right tool for the job
- 6. Have fun
+ 6. Be a part of a team
+ 7. Have fun
 
 # 1. Development is a science, so be scientific
 
@@ -113,7 +114,14 @@ we have enough knowledge to pose the best questions.
 
 ---
 
-# 6. Have fun
+# 6. Be a part of a team
+
+We want to produce the best software we can. That goes without
+qualification. 
+
+---
+
+# 7. Have fun
 
 Every developer first started developing as a hobby because simply
 because it was interesting. The moment we stop the child-like wonder at
