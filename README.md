@@ -3,7 +3,7 @@
 [![Creative Commons Attribution-ShareAlive 4.0 International][license_img]][license_url]
 
  1. Development is a science, so be scientific
- 2. Development is an art, so be beautiful
+ 2. Development is an art, so create beauty
  3. Never stop learning
  4. Never stop teaching
  5. Question if we are using the right tool for the job
@@ -36,7 +36,7 @@ our conclusions to evolve as more evidence is presented.
 
 ---
 
-# 2. Development is an art, so be beautiful
+# 2. Development is an art, so create beauty
 
 We are artists. As humans, we intrinsically know that it is nicer to
 inhabit a beautiful room than one that is less so. The more pleasing the
