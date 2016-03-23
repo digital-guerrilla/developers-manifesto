@@ -7,7 +7,8 @@
  3. Never stop learning
  4. Never stop teaching
  5. Question if we are using the right tool for the job
- 6. Have fun
+ 6. Communicate, communicate, communicate
+ 7. Have fun
 
 ## 1. Development is a science, so be scientific
 
@@ -113,7 +114,20 @@ we have enough knowledge to pose the best questions.
 
 ---
 
-## 6. Have fun
+## 6. Communicate, communicate, communicate
+
+Great communication is the key to great software. Regardless of the size
+of your team, even if it's just one, we value the importance of effective
+communication.
+
+In a team of one, we are communicating with people in the future, either
+ourselves or future developers working on our software. In a team of many,
+we recognise the strengths each team member brings and that we are stronger
+together.
+
+---
+
+## 7. Have fun
 
 Every developer first started developing as a hobby simply because it was
 interesting. The moment we stop the child-like wonder at how amazing it
