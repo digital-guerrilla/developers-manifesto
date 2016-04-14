@@ -4,7 +4,7 @@
 
 # Translations
 
-The manifesto is originally written in [English]([lng_en]).
+The manifesto is originally written in [English](en/manifesto.md "English").
 
 The following are translations made from the original Developer's Manifesto.
 
@@ -18,10 +18,11 @@ translation is based. This is to keep track of the updates.
 original version, so a different commit reference does not automatically mean
 an outdated translation).
 
-* [Spanish]([lng_es]) by [Axel Pardemann][lng_es_author] from commit [cda09ee][lng_es_commit].
+* [Spanish](es/manifesto.md "Spanish") by [Axel Pardemann][lng_es_author] from commit [cda09ee][lng_es_commit].
+
+
 
 [license_img]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-
 [license_url]: https://creativecommons.org/licenses/by-sa/4.0
 
 [lng_en]: en/manifesto.md
