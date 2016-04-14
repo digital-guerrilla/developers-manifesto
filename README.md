@@ -6,6 +6,17 @@
 
 Simple. Fork the project and add your signature to the bottom of the [signed.yml](signed.yml) file.
 
+The format is:
+
+```yml
+-
+  name: "Your name"
+  url: "http://example.com"
+  image: "http://example.com/img/me.jpg"
+```
+
+The `url` and `image` fields are optional. See the instructions in the file for more detailed information.
+
 ## Translations
 
 The manifesto is originally written in [English](en/manifesto.md "English").
