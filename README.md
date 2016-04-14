@@ -19,13 +19,13 @@ The `url` and `image` fields are optional. See the instructions in the file for 
 
 ## Translations
 
-The manifesto is originally written in [English](en/manifesto.md "English").
+The manifesto is originally written in [English][lng_en].
 
 The following are translations made from the original Developer's Manifesto.
 
 The translations may not be updated to the latest changes of the original
-(English) version so a commit reference from where the translation was made is
-included per translation. The translations should always reference the
+(English) version so a commit reference (of the tree) from where the translation
+was made is included per translation. The translations should always reference the
 original version; if a translation is made from another translated version,
 then include the same commit reference as the translated version from where the
 translation is based. This is to keep track of the updates.
@@ -33,7 +33,7 @@ translation is based. This is to keep track of the updates.
 original version, so a different commit reference does not automatically mean
 an outdated translation).
 
-* [Spanish](es/manifesto.md "Spanish") by [Axel Pardemann][lng_es_author] from commit [cda09ee][lng_es_commit].
+* [Spanish][lng_es] by [Axel Pardemann][lng_es_author] from commit [34dcc91][lng_es_commit] maintained in [axelitus/developers-manifesto/feature/translation-spanish][lng_es_repo_branch].
 
 
 
@@ -43,5 +43,6 @@ an outdated translation).
 [lng_en]: en/manifesto.md
 
 [lng_es]: es/manifesto.md
-[lng_es_commit]: https://github.com/digital-guerrilla/developers-manifesto/commit/cda09eeaa3697b09e7e7f5c9ed7c9e5b84e01342
+[lng_es_commit]: https://github.com/digital-guerrilla/developers-manifesto/tree/34dcc91e8be247bca2dbe6c1a2b62d20fc74677d
 [lng_es_author]: https://github.com/axelitus
+[lng_es_repo_branch]: https://github.com/axelitus/developers-manifesto/tree/feature/translation-spanish
