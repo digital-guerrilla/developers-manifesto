@@ -2,7 +2,11 @@
 
 [![Creative Commons Attribution-ShareAlive 4.0 International][license_img]][license_url]
 
-# Translations
+## Sign the Manifesto!
+
+Simple. Fork the project and add your signature to the bottom of the [signed.yml](signed.yml) file.
+
+## Translations
 
 The manifesto is originally written in [English](en/manifesto.md "English").
 
