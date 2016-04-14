@@ -8,7 +8,7 @@ Simple. Fork the project and add your signature to the bottom of the [signed.yml
 
 ## Badge
 
-![Developers' Manifesto Badge](badge.svg "Developers' Manifest Badge)
+![Developers' Manifesto Badge](badge.svg "Developers' Manifest Badge")
 
 ## Translations
 
