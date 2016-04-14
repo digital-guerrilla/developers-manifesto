@@ -2,21 +2,27 @@
 #                                                               #
 #                Sign the Developers' Manifesto                 #
 #                                                               #
-# To sign the manifesto, please add your name and an optional   #
-# URL below. Please add your name to the bottom of the list.    #
+# To sign the manifesto, please add your name and optional      #
+# image and URL below. Please add your name to the bottom of    #
+# the list.                                                     #
 #                                                               #
 # The URL should be something relevant to you (eg GitHub, blog, #
 # Twitter etc) and is optional.                                 #
 #                                                               #
-# Any name/URL that is deemed offensive, inappropriate etc will #
-# not be allowed.                                               #
+# The image should be something that works as a 50x50           #
+# thumbnail.                                                    #
+#                                                               #
+# Any name/image/URL that is deemed offensive, inappropriate    #
+# etc will not be allowed.                                      #
 #                                                               #
 # Format:                                                       #
 # -                                                             #
 #   name: "Your name"                                           #
 #   url: "http://example.com"                                   #
+#   image: "http://example.com/img/me.jpg"                      #
 #                                                               #
-# Please use fully-qualified domain names with http(s).         #
+# Please use fully-qualified domain names with http(s). "name"  #
+# is the only required field.                                   #
 #                                                               #
 #################################################################
 
@@ -24,3 +30,4 @@
 -
   name: "Simon Emms"
   url: "http://simonemms.com"
+  image: "https://en.gravatar.com/userimage/19326460/f13c9cbc09b375681ee80af8e2d5fb21.jpg"
