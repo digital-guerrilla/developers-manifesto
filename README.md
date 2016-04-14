@@ -9,7 +9,7 @@ The manifesto is originally written in [English]([lng_en] "English").
 The following are translations made from the original Developer's Manifesto.
 
 The translations may not be updated to the latest changes of the original
-(english) version so a commit reference from where the translation was made is
+(English) version so a commit reference from where the translation was made is
 included per translation. The translations should always reference the
 original version; if a translation is made from another translated version,
 then include the same commit reference as the translated version from where the
