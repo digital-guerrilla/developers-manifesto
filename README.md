@@ -6,10 +6,6 @@
 
 Simple. Fork the project and add your signature to the bottom of the [signed.yml](signed.yml) file.
 
-## Badge
-
-![Developers' Manifesto Badge](badge.svg "Developers' Manifest Badge")
-
 ## Translations
 
 The manifesto is originally written in [English](en/manifesto.md "English").
