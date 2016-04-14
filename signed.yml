@@ -1,0 +1,26 @@
+#################################################################
+#                                                               #
+#                Sign the Developers' Manifesto                 #
+#                                                               #
+# To sign the manifesto, please add your name and an optional   #
+# URL below. Please add your name to the bottom of the list.    #
+#                                                               #
+# The URL should be something relevant to you (eg GitHub, blog, #
+# Twitter etc) and is optional.                                 #
+#                                                               #
+# Any name/URL that is deemed offensive, inappropriate etc will #
+# not be allowed.                                               #
+#                                                               #
+# Format:                                                       #
+# -                                                             #
+#   name: "Your name"                                           #
+#   url: "http://example.com"                                   #
+#                                                               #
+# Please use fully-qualified domain names with http(s).         #
+#                                                               #
+#################################################################
+
+---
+-
+  name: "Simon Emms"
+  url: "http://simonemms.com"
