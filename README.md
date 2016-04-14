@@ -33,7 +33,7 @@ translation is based. This is to keep track of the updates.
 original version, so a different commit reference does not automatically mean
 an outdated translation).
 
-* [Spanish][lng_es] by [Axel Pardemann][lng_es_author] from commit [34dcc91][lng_es_commit] maintained in [axelitus/developers-manifesto][lng_es_repo].
+* [Spanish][lng_es] by [Axel Pardemann][lng_es_author] from commit [34dcc91][lng_es_commit] maintained in [axelitus/developers-manifesto/feature/translation-spanish][lng_es_repo_branch].
 
 
 
@@ -45,4 +45,4 @@ an outdated translation).
 [lng_es]: es/manifesto.md
 [lng_es_commit]: https://github.com/digital-guerrilla/developers-manifesto/tree/34dcc91e8be247bca2dbe6c1a2b62d20fc74677d
 [lng_es_author]: https://github.com/axelitus
-[lng_es_repo]: https://github.com/axelitus/developers-manifesto
+[lng_es_repo_branch]: https://github.com/axelitus/developers-manifesto/tree/feature/translation-spanish
