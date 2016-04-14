@@ -2,13 +2,13 @@
 
 [![Creative Commons Attribution-ShareAlive 4.0 International][license_img]][license_url]
 
- 1. Development is a science, so be scientific
- 2. Development is an art, so create beauty
- 3. Never stop learning
- 4. Never stop teaching
- 5. Question if we are using the right tool for the job
- 6. Communicate, communicate, communicate
- 7. Have fun
+ 1. Development is a science, so be scientific.
+ 2. Development is an art, so create beauty.
+ 3. Never stop learning.
+ 4. Never stop teaching.
+ 5. Question if we are using the right tool for the job.
+ 6. Communicate, communicate, communicate.
+ 7. Have fun.
 
 ## 1. Development is a science, so be scientific
 
@@ -66,7 +66,7 @@ No matter how good we are, we cannot know it all. It should be our
 ambition that, when we look back at our past work, we ought to be able
 to see ways in which to improve it.
 
-It may be a small thing. It may a massive improvement. When we can't see
+It may be a small thing. It may be a massive improvement. When we can't see
 any improvements to our old work, we have not grown and
 we have stagnated.
 
@@ -135,12 +135,12 @@ is to develop is the moment we cease to be a developer.
 
 Remember the excitement we had when we first made a computer do
 something. Those tasks are what we make computers do every single day of
-our lives. Consider just how amazing development is and what  is still
+our lives. Consider just how amazing development is and what is still
 possible to do.
 
 How can we inspire others if we cannot even inspire ourselves?
 
-We do something amazing.
+We do something amazing!
 
 ---
 
