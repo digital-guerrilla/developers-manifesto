@@ -4,7 +4,8 @@
 
 ## Sign the Manifesto!
 
-Simple. Fork the project and add your signature to the bottom of the [signed.yml](signed.yml) file.
+Simple. Fork the project and add your signature to the bottom of the [signed.yml](signed.yml) file. Then,
+open a pull request for it to be added to the main repository.
 
 The format is:
 
