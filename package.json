@@ -4,6 +4,7 @@
   "description": "Developers' Manifesto website",
   "main": "index.js",
   "scripts": {
+    "compile": "echo compile",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
