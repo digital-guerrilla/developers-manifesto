@@ -4,7 +4,7 @@
   "description": "Developers' Manifesto website",
   "main": "index.js",
   "scripts": {
-    "compile": "cp -Rf src dist",
+    "compile": "cp -Rf src/ dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
