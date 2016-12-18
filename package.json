@@ -5,13 +5,13 @@
   "main": "index.js",
   "scripts": {
     "clean": "rm -Rf dist master.zip tmp",
-    "compile": "npm run clean && npm run download && npm run unzip && npm run compile:site && npm run compile:sass && npm run readme",
+    "compile": "npm run compile:site -s && npm run compile:sass -s && npm run readme -s",
     "compile:sass": "node-sass --output-style compressed --output ./dist/styles ./src/styles && npm run postcss",
     "compile:site": "node build.js",
-    "download": "wget https://github.com/digital-guerrilla/developers-manifesto/archive/master.zip",
+    "download": "npm run clean && wget https://github.com/digital-guerrilla/developers-manifesto/archive/master.zip",
     "postcss": "postcss --use autoprefixer --autoprefixer.browsers 'last 2 versions, ie >= 9, and_chr >= 2.3' ./dist/styles/*.css -d ./dist/styles",
     "readme": "printf '# Readme\n\nThis is generated from the `website` branch - updates to be done in there' > dist/README.md",
-    "serve": "nodemon build.js",
+    "serve": "npm run clean && npm run download && npm run unzip && nodemon --exec 'npm run compile'",
     "test": "npm run test:lint",
     "test:lint": "eslint ./",
     "unzip": "unzip master.zip && mv developers-manifesto-master tmp"

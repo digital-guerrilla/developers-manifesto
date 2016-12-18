@@ -2,6 +2,8 @@ language: node_js
 node_js:
 - 6
 after_success:
+- npm run download
+- npm run unzip
 - npm run compile
 - bash deploy.sh
 env:
