@@ -12,7 +12,7 @@
     "download": "npm run clean && wget https://github.com/digital-guerrilla/developers-manifesto/archive/master.zip",
     "postcss": "postcss --use autoprefixer --autoprefixer.browsers 'last 2 versions, ie >= 9, and_chr >= 2.3' ./dist/styles/*.css -d ./dist/styles",
     "readme": "printf '# Readme\n\nThis is generated from the `website` branch - updates to be done in there' > dist/README.md",
-    "serve": "npm run clean && npm run download && npm run unzip && nodemon --exec 'npm run compile'",
+    "serve": "npm run clean && npm run download && npm run unzip && nodemon --ext js,json,pug,scss --exec 'npm run compile'",
     "test": "npm run test:lint",
     "test:lint": "eslint ./",
     "unzip": "unzip master.zip && mv developers-manifesto-master tmp"
