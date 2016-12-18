@@ -2,7 +2,7 @@
   "name": "developers-manifesto",
   "version": "1.0.0",
   "description": "Developers' Manifesto website",
-  "main": "index.js",
+  "main": "build.js",
   "scripts": {
     "clean": "rm -Rf dist master.zip tmp",
     "compile": "npm run compile:site -s && npm run compile:sass -s && npm run copy -s && npm run readme -s",
