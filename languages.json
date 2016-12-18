@@ -1,0 +1,10 @@
+[{
+  "code": "en",
+  "default": true,
+  "local": "English",
+  "name": "English"
+}, {
+  "code": "es",
+  "local": "Español",
+  "name": "Spanish"
+}]

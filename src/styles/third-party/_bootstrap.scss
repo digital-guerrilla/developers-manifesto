@@ -1,0 +1,13 @@
+/*
+
+    Bootstrap
+
+    @link http://getbootstrap.com/
+
+ */
+
+@import "../../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+img {
+  @extend .img-responsive;
+}

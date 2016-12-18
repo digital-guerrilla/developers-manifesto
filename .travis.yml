@@ -1,9 +1,8 @@
 language: node_js
 node_js:
 - 6
-script:
-- npm run compile
 after_success:
+- npm run compile
 - bash deploy.sh
 env:
   global:

@@ -4,8 +4,17 @@
   "description": "Developers' Manifesto website",
   "main": "index.js",
   "scripts": {
-    "compile": "cp -Rf src/ dist",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "clean": "rm -Rf dist master.zip tmp",
+    "compile": "npm run clean && npm run download && npm run unzip && npm run compile:site && npm run compile:sass && npm run readme",
+    "compile:sass": "node-sass --output-style compressed --output ./dist/styles ./src/styles && npm run postcss",
+    "compile:site": "node build.js",
+    "download": "wget https://github.com/digital-guerrilla/developers-manifesto/archive/master.zip",
+    "postcss": "postcss --use autoprefixer --autoprefixer.browsers 'last 2 versions, ie >= 9, and_chr >= 2.3' ./dist/styles/*.css -d ./dist/styles",
+    "readme": "printf '# Readme\n\nThis is generated from the `website` branch - updates to be done in there' > dist/README.md",
+    "serve": "nodemon build.js",
+    "test": "npm run test:lint",
+    "test:lint": "eslint ./",
+    "unzip": "unzip master.zip && mv developers-manifesto-master tmp"
   },
   "repository": {
     "type": "git",
@@ -19,5 +28,14 @@
   "homepage": "https://github.com/digital-guerrilla/developers-manifesto#readme",
   "private": true,
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "autoprefixer": "^6.5.4",
+    "bootstrap-sass": "^3.3.7",
+    "eslint": "^3.12.2",
+    "mkdirp": "^0.5.1",
+    "node-sass": "^4.0.0",
+    "nodemon": "^1.11.0",
+    "postcss-cli": "^2.6.0",
+    "pug": "^2.0.0-beta6"
+  }
 }
