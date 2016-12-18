@@ -1,11 +1,28 @@
 doctype html
 
-html.no-js(lang=code)
+html.no-js(lang=lang.code)
 
   head
 
-    title title
+    title #{ lang.title }
+
+    base(href=baseHref)
+
+    meta(charset="utf-8")
+    meta(http-equiv="X-UA-Compatible" content="IE=edge")
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+
+    link(href="styles/main.css" rel="stylesheet")
 
   body
 
-    div #{ hello }
+    .container
+
+      .col-md-9
+        h1 #{ lang.title }
+
+      .col-md-3
+        ul.nav.nav-tabs.nav-justified
+          each language in languages
+            li(role='presentation' class=language.code === lang.code ? 'active' : '')
+              a(href=language.code) #{ language.local }

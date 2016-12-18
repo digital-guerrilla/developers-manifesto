@@ -32,6 +32,7 @@ const getLanguages = () => {
             if (info) {
                 info.default = info.default || false;
                 info.manifesto = fs.readFileSync(path.join(__dirname, "tmp", language, "manifesto.md"), "utf8");
+                info.title = info.manifesto.split("\n")[0].replace(/^#\s+/, "");
 
                 result.push(info);
             }
@@ -40,12 +41,20 @@ const getLanguages = () => {
         }, []);
 };
 
+let baseHref = process.env.BASE_HREF;
+if (baseHref === void 0) {
+    baseHref = "/";
+}
 const languages = getLanguages();
 
 languages.forEach(lang => {
     const root = path.join(__dirname, "dist");
 
-    const compiled = pug.renderFile(path.join(__dirname, "src", "index.pug"), lang);
+    const compiled = pug.renderFile(path.join(__dirname, "src", "index.pug"), {
+        baseHref,
+        lang,
+        languages
+    });
 
     const savePath = [
         path.join(root, lang.code)
