@@ -4,8 +4,10 @@
 
 /* Node modules */
 const fs = require("fs");
+const marked = require("marked");
 const mkdirp = require("mkdirp");
 const path = require("path");
+const yaml = require("js-yaml");
 
 /* Third-party modules */
 const pug = require("pug");
@@ -41,11 +43,25 @@ const getLanguages = () => {
         }, []);
 };
 
+const getSignatories = () => {
+    const file = fs.readFileSync(path.join(__dirname, "tmp", "signed.yml"), "utf8");
+
+    const signatories = yaml.safeLoad(file);
+
+    return signatories.map(user => {
+        user.url = user.url || null;
+        user.image = user.image || null;
+
+        return user;
+    });
+};
+
 let baseHref = process.env.BASE_HREF;
 if (baseHref === void 0) {
     baseHref = "/";
 }
 const languages = getLanguages();
+const signed = getSignatories();
 
 languages.forEach(lang => {
     const root = path.join(__dirname, "dist");
@@ -53,7 +69,9 @@ languages.forEach(lang => {
     const compiled = pug.renderFile(path.join(__dirname, "src", "index.pug"), {
         baseHref,
         lang,
-        languages
+        languages,
+        markdown: input => marked(input, {}),
+        signed
     });
 
     const savePath = [

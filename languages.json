@@ -2,9 +2,11 @@
   "code": "en",
   "default": true,
   "local": "English",
-  "name": "English"
+  "name": "English",
+  "signed": "Signed"
 }, {
   "code": "es",
   "local": "Español",
-  "name": "Spanish"
+  "name": "Spanish",
+  "signed": "Firmado"
 }]
