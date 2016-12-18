@@ -11,7 +11,7 @@ const path = require("path");
 const pug = require("pug");
 
 /* Files */
-const languageCodes = require('./languages.json');
+const languageCodes = require("./languages.json");
 
 const getLanguageInfo = code => languageCodes.reduce((result, language) => {
     if (code === language.code) {
