@@ -2,13 +2,17 @@
 
 [![Creative Commons Attribution-ShareAlive 4.0 International][license_img]][license_url]
 
- 1. Development is a science, so be scientific.
- 2. Development is an art, so create beauty.
- 3. Never stop learning.
- 4. Never stop teaching.
- 5. Question if we are using the right tool for the job.
- 6. Communicate, communicate, communicate.
- 7. Have fun.
+<!-- toc -->
+
+- [1. Development is a science, so be scientific](#1-development-is-a-science-so-be-scientific)
+- [2. Development is an art, so create beauty](#2-development-is-an-art-so-create-beauty)
+- [3. Never stop learning](#3-never-stop-learning)
+- [4. Never stop teaching](#4-never-stop-teaching)
+- [5. Question if we are using the right tool for the job](#5-question-if-we-are-using-the-right-tool-for-the-job)
+- [6. Communicate, communicate, communicate](#6-communicate-communicate-communicate)
+- [7. Have fun](#7-have-fun)
+
+<!-- tocstop -->
 
 ## 1. Development is a science, so be scientific
 

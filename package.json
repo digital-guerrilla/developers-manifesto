@@ -1,0 +1,9 @@
+{
+  "name": "developers-manifesto",
+  "devDependencies": {
+    "markdown-toc": "^1.0.2"
+  },
+  "scripts": {
+    "toc": "markdown-toc -i en/manifesto.md; markdown-toc -i es/manifesto.md"
+  }
+}

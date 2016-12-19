@@ -2,13 +2,17 @@
 
 [![Creative Commons Attribution-ShareAlive 4.0 International][license_img]][license_url]
 
- 1. El desarrollo es una ciencia, sé científico.
- 2. El desarrollo es un arte, crea belleza.
- 3. Nunca dejes de aprender.
- 4. Nunca dejes de enseñar.
- 5. Cuestiona si estás utilizando la herramienta correcta para el trabajo.
- 6. Comunica, comunica, comunica.
- 7. Diviértete.
+<!-- toc -->
+
+- [1. El desarrollo es una ciencia, sé científico](#1-el-desarrollo-es-una-ciencia-se-cientifico)
+- [2. El desarrollo es un arte, crea belleza](#2-el-desarrollo-es-un-arte-crea-belleza)
+- [3. Nunca dejes de aprender](#3-nunca-dejes-de-aprender)
+- [4. Nunca dejes de enseñar](#4-nunca-dejes-de-ensenar)
+- [5. Cuestiona si estás utilizando la herramienta correcta para el trabajo](#5-cuestiona-si-estas-utilizando-la-herramienta-correcta-para-el-trabajo)
+- [6. Comunica, comunica, comunica](#6-comunica-comunica-comunica)
+- [7. Diviértete](#7-diviertete)
+
+<!-- tocstop -->
 
 ## 1. El desarrollo es una ciencia, sé científico
 
