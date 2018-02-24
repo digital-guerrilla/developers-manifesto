@@ -84,7 +84,7 @@ afiladas a través de la educación.
 ## 4. Nunca dejes de enseñar
 
 No importa que tan novatos seamos, para alguien que no es desarrollador
-somo una superestrella. Hemos aprendido como hacer que las computadoras
+somos una superestrella. Hemos aprendido como hacer que las computadoras
 se dobleguen a nuestra voluntad. Nunca pierdas de vista la complejidad
 que representa hasta el más simple "hola mundo" para la mayoría de las
 personas.
